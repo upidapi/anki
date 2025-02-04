@@ -1,0 +1,19 @@
+este | den här (maskulin singular)
+esta | den här (feminin singular)
+estos | de här (maskulin plural)
+estas | de här (feminin plural)
+
+ese | den där (maskulin singular)
+esa | den där (feminin singular)
+esos | de där (maskulin plural)
+esas | de där (feminin plural)
+
+aquel | den där borta (maskulin singular)
+aquella | den där borta (feminin singular)
+aquellos | de där borta (maskulin plural)
+aquellas | de där borta (feminin plural)
+
+esto | detta (neutral)
+eso | det där (neutral)
+aquello | det där borta (neutral)
+

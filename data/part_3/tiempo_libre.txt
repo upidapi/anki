@@ -1,0 +1,51 @@
+tiempo libre:
+    Jugar al...:
+        jugar al fútbol | fotboll
+        jugar al baloncesto | basket
+        jugar al balonmano | handboll
+        jugar al tenis de mesa | bordtennis
+        jugar al tenis | tennis
+        jugar al ajedrez | schack
+
+    Hacer:
+        hacer deporte | idrott
+        hacer atletismo | friidrott
+        hacer gimnasia | gymnastik
+        hacer equitación | ridning
+        hacer natación | simning
+        hacer vela | segling
+        hacer un curso de baile | danskurs
+
+    Leer:
+        leer un libro | bok
+        leer el periódico/diario | tidning
+        leer una revista | tidskrift
+        leer una novela | roman
+
+    Ir:
+        ir al cine | gå på bio
+        ir al concierto | gå på konsert
+        ir de compras | gå och handla/shoppa
+        ir a la discoteca | gå på diskotek
+        ir a cenar | gå ut och äta middag
+        ir a bailar | gå ut och dansa
+        ir a dar una vuelta al centro | gå en runda på stan
+        ir de fiesta | gå på fest
+
+    Otros Verbos/Acciones:
+        entrenar | träna
+        descansar | vila
+        chatear | chatta
+        estar con los amigos | umgås med kompisar
+        jugar a los videojuegos | spela tv-spel
+        jugar a las cartas | spela kort
+        ordenar/limpiar la casa | städa hemma
+        visitar a la familia | besöka släkten
+        ver la televisión | titta på tv
+        ver una película | titta på film
+        hacer una barbacoa | grilla
+
+    Ir (Additional Phrases):
+        ir a un partido de fútbol | gå på en fotbollsmatch
+        ir a esquiar | åka skidor
+        ir al gimnasio | gå på gymmet

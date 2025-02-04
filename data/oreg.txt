@@ -1,0 +1,113 @@
+oreg verb raw
+    poner | lägga, ställa, sätta
+        pongo | jag lägger
+        pones | du lägger
+        pone | han/hon/den lägger
+        ponemos | vi lägger
+        ponéis | ni lägger
+        ponen | de lägger
+    seguir | följa, fortsätta
+        sigo | jag följer
+        sigues | du följer
+        sigue | han/hon/den följer
+        seguimos | vi följer
+        seguís | ni följer
+        siguen | de följer
+    ver | se
+        veo | jag ser
+        ves | du ser
+        ve | han/hon/den ser
+        vemos | vi ser
+        veis | ni ser
+        ven | de ser
+    ir | gå, åka
+        voy | jag går/åker
+        vas | du går/åker
+        va | han/hon/den går/åker
+        vamos | vi går/åker
+        vais | ni går/åker
+        van | de går/åker
+    querer | vilja, älska
+        quiero | jag vill/älskar
+        quieres | du vill/älskar
+        quiere | han/hon/den vill/älskar
+        queremos | vi vill/älskar
+        queréis | ni vill/älskar
+        quieren | de vill/älskar
+    poder | kunna
+        puedo | jag kan
+        puedes | du kan
+        puede | han/hon/den kan
+        podemos | vi kan
+        podéis | ni kan
+        pueden | de kan
+    pedir | be om, begära
+        pido | jag ber om
+        pides | du ber om
+        pide | han/hon/den ber om
+        pedimos | vi ber om
+        pedís | ni ber om
+        piden | de ber om
+    estar | vara (tillstånd), befinna sig
+        estoy | jag är (temp)
+        estás | du är (temp)
+        está | han/hon/den är (temp)
+        estamos | vi är (temp)
+        estáis | ni är (temp)
+        están | de är (temp)
+    ser | vara (permanent)
+        soy | jag är (permanent)
+        eres | du är (permanent)
+        es | han/hon/den är (permanent)
+        somos | vi är (permanent)
+        sois | ni är (permanent)
+        son | de är (permanent)
+    tener | ha
+        tengo | jag har
+        tienes | du har
+        tiene | han/hon/den har
+        tenemos | vi har
+        tenéis | ni har
+        tienen | de har
+    dar | ge
+        doy | jag ger
+        das | du ger
+        da | han/hon/den ger
+        damos | vi ger
+        dais | ni ger
+        dan | de ger
+    hacer | göra
+        hago | jag gör
+        haces | du gör
+        hace | han/hon/den gör
+        hacemos | vi gör
+        hacéis | ni gör
+        hacen | de gör
+    decir | säga
+        digo | jag säger
+        dices | du säger
+        dice | han/hon/den säger
+        decimos | vi säger
+        decís | ni säger
+        dicen | de säger
+    saber | veta, kunna
+        sé | jag vet
+        sabes | du vet
+        sabe | han/hon/den vet
+        sabemos | vi vet
+        sabéis | ni vet
+        saben | de vet
+    venir | komma
+        vengo | jag kommer
+        vienes | du kommer
+        viene | han/hon/den kommer
+        venimos | vi kommer
+        venís | ni kommer
+        vienen | de kommer
+    oír | höra
+        oigo | jag hör
+        oyes | du hör
+        oye | han/hon/den hör
+        oímos | vi hör
+        oís | ni hör
+        oyen | de hör

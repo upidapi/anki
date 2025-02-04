@@ -1,0 +1,24 @@
+platser
+    la librería | bokhandeln
+    la panadería | bageriet
+    la carnicería | köttaffären
+    la ciudad | staden
+    el hospital | sjukhuset
+    la farmacia | apoteket
+    la cafetería | kaféet
+    el ayuntamiento | kommunhuset
+    el cine | bio
+    la granja | gården
+    el parque | parken
+    la pescadería | fiskaffären
+    el banco | banken
+    la estación de bomberos | brandstationen
+    la comisaría | polisstationen
+    la tienda de ropa | klädaffären
+    la prisión | fängelset
+    la sinagoga | synagogan
+    la cárcel | fängelset
+    la mezquita | moskén
+    la iglesia | kyrkan
+    la fábrica | fabriken
+    la heladería | glassaffären

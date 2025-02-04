@@ -1,0 +1,337 @@
+test misc
+    delante | framför
+    vas a trabajar | ska du arbeta
+    no están | de är inte
+    demasiado | för mycket
+    van a comprar | ska de köpa
+    segundo | andre
+    Allí | Där
+    has hecho | har du gjort
+    tenemos hambre | vi är hungriga
+    vivís | bor ni
+    son | är
+    tus | dina
+    Emma tiene que | Emma måste
+    isla | ö
+    Ese | Den där
+    llegar tarde | komma för sent
+    se ducha | duschar
+    La capital de Argentina | Argentinas huvudstad
+    Hay mucha gente | Det är mycket folk
+    quién | vem
+    Sois | Är ni
+    nuestra | vårt
+    Piensas | Tänker du
+    nadie | ingen
+    muchas | många
+    Me duele | jag har ont i
+    Acabamos de | Vi har nyss
+    quieren | de vill
+    Estos | De här
+    peor | sämre
+    Vais a cantar | Ska ni sjunga
+    juega al fútbol | spelar fotboll
+    está | är
+    comen | äter de
+    primera | första
+    No me gustan | Jag tycker inte om
+    cerca | nära
+    está escribiendo | hon sitter och skriver
+    baratos | billiga
+    el mejor | den bäste
+    Siempre | Alltid
+    estoy | är jag
+    Has visto | Har du sett
+    estáis diciendo | håller ni på och säger
+    Puedes | Kan du
+    las más caras | de dyraste
+    a las tres | klockan tre
+    quince | femton
+    sin | utan
+    Habéis hablado | Har ni pratat
+
+ha utryck (tener)
+    tener ganas de | ha lust att
+    tener celos | vara svartsjuk
+    tener cuidado | vara försiktig
+    tener éxito | ha framgång
+    tener la culpa | vara skyldig
+    tener lugar | äga rum
+    tener en cuenta | ta hänsyn till, beakta
+    tener vergüenza | skämmas
+    tener confianza | ha förtroende, vara självsäker
+    tener interés | vara intresserad
+    tener paciencia | ha tålamod
+    tener que | vara tvungen att, måste
+    tener dolor de | ha ont i
+    tener fiebre | ha feber
+    tener cuidado con | vara försiktig med
+    tener envidia | vara avundsjuk
+    tener éxito en | lyckas med
+    tener derecho a | ha rätt till
+    tener la intención de | ha för avsikt att
+    tener pereza | vara lat, känna sig lat
+    tener ganas de llorar | känna för att gråta
+    tener esperanza | ha hopp
+    tener buenos modales | ha bra uppförande
+    tener mala suerte | ha otur
+    tener algo que ver con | ha något att göra med
+    tener alergia a | vara allergisk mot
+    tener interés en | vara intresserad av
+    tener un accidente | råka ut för en olycka
+    tener una idea | ha en idé
+    tener dificultades | ha svårigheter
+    tener en mente | ha i åtanke
+    tener un sueño | ha en dröm
+
+ar-verb
+    cambiar | byta ändra
+    viajar | resa
+    comprar | köpa
+    terminar | avsluta
+    pagar | betala
+    regresar | återvända
+    caminar | gå promenera
+    encontrar | hitta träffa
+    recordar | komma ihåg
+    empezar | börja
+    cantar | sjunga
+    bailar | dansa
+    jugar | spela leka
+    nadar | simma
+    descansar | vila
+    llegar | anlända
+    preparar | förbereda
+    desear | önska
+    lavar | tvätta
+    contestar | svara
+    invitar | bjuda in
+    mandar | skicka beordra
+    negar | förneka
+    presentar | presentera
+    tocar | spela (ett instrument)
+    visitar | besöka
+    olvidar | glömma
+    cocinar | laga mat
+    hablar | tala
+    trabajar | arbeta
+    mirar | titta
+    escuchar | lyssna
+    ayudar | hjälpa
+    estudiar | studera
+    esperar | vänta hoppas
+    necesitar | behöva
+    usar | använda
+    entrar | gå in
+    buscar | leta efter
+    llevar | bära ta med
+    tomar | ta dricka
+    preguntar | fråga
+
+er och ir verb
+    hacer | göra
+    defender | försvara
+    depender | bero på
+    discutir | diskutera argumentera
+    existir | existera finnas
+    imprimir | skriva ut trycka
+    parecer | verka förefalla
+    prohibir | förbjuda
+    responder | svara
+    traducir | översätta
+    aprender | lära sig
+    beber | dricka
+    comer | äta
+    comprender | förstå
+    correr | springa
+    creer | tro
+    deber | vara skyldig måste
+    leer | läsa
+    romper | bryta ha sönder
+    vender | sälja
+    volver | återvända komma tillbaka
+    abrir | öppna
+    decidir | besluta bestämma
+    descubrir | upptäcka
+    escribir | skriva
+    subir | gå upp stiga
+    vivir | leva bo
+
+kropsdelar
+    cabeza | huvud
+    cuello | hals
+    brazo | arm
+    mano | hand
+    muslo | lår
+    pantorrilla | vad
+    tobillo | ankel
+    oreja | öra
+    hombro | axel
+    espalda | rygg
+    trasero | bakdel
+    ojo | öga
+    frente | panna
+    nariz | näsa
+    boca | mun
+    garganta | hals (strupen)
+    pecho | bröst
+    estómago | mage
+    muñeca | handled
+    dedo | finger
+    pierna | ben
+    rodilla | knä
+    pie | fot
+
+göra saker
+    hacer la tarea/los deberes | göra läxan
+    hacer la cama | bädda sängen
+    hacer ejercicio | träna
+    hacer una pregunta | ställa en fråga
+    hacer un favor | göra en tjänst
+    hacer la comida | laga mat
+    hacer la maleta | packa
+    hacer un curso | gå en kurs
+    hacer un viaje | göra en resa
+    hacer la compra | handla
+    hacer un examen | göra ett prov
+    hacer una llamada | ringa ett samtal
+    hacer amigos | skaffa vänner
+    hacer ruido | göra oljud
+
+familjeord
+    mi abuelo | min farfar/morfar
+    mi abuela | min farmor/mormor
+    mis abuelos y sus nietos | mina farföräldrar/morföräldrar och deras barnbarn
+    mi padre | min pappa
+    mi madre | min mamma
+    mis padres | mina föräldrar
+    mi tío | min farbror/morbror
+    mi tía | min faster/moster
+    mis tíos y sus hijos | mina farbröder/morbröder och deras barn
+    mi hermano | min bror
+    mi hermana | min syster
+    mis hermanos y sus hijos | mina syskon och deras barn
+    mi madrastra | min styvmor
+    mi padrastro | min styvfar
+    mi hermanastro | min styvbror
+    mi hermanastra | min styvsyster
+    mi media hermana | min halvsyster
+    mi media hermano | min halvbror
+
+djur
+    el perro | hunden
+    el gato | katten
+    el pez | fisken
+    el conejo | kaninen
+    la tortuga | sköldpaddan
+    el hámster | hamstern
+    el pájaro | fågeln
+    el loro | papegojan
+    el camaleón | kameleonten
+    el erizo | igelkotten
+    el hurón | illern
+    la tarántula | tarantellan
+
+aktiviteter
+    ir al cine | gå på bio
+    montar en bicicleta | cykla
+    escuchar música | lyssna på musik
+    tocar un instrumento | spela ett instrument
+    bailar | dansa
+    trotar | jogga
+    dar un paseo | ta en promenad
+    sacar fotografías | ta fotografier
+    jugar al ajedrez | spela schack
+    ver la tele | titta på TV
+    salir con los amigos | gå ut med vänner
+    leer | läsa
+    navegar por Internet | surfa på Internet
+    viajar | resa
+    escribir cartas | skriva brev
+    ir de compras | shoppa
+    pintar | måla
+    visitar museos | besöka museer
+    cocinar | laga mat
+    cuidar las plantas | ta hand om växter
+
+väder
+    estaciones del año | årstider
+    el verano | sommaren
+    el cielo | himlen
+    está despejado | det är klart väder
+    hace sol | det är soligt
+    la nube | molnet
+    no hay nubes | det finns inga moln
+    hace calor | det är varmt
+    más de 25°C | mer än 25°C
+    la primavera | våren
+    el otoño | hösten
+    clima más moderado | mildare klimat
+    hace buen tiempo | det är fint väder
+    hace viento | det blåser
+    el viento | vinden
+    se nubla | det blir molnigt
+    hay tormenta | det är storm
+    el relámpago | blixten
+    el trueno | åskan
+    la lluvia | regnet
+    llueve | det regnar
+    la niebla | dimman
+    hay niebla | det är dimmigt
+    el granizo | haglet
+    graniza | det haglar
+    el hielo | isen
+    hace frío | det är kallt
+    nieva | det snöar
+    la nieve | snön
+    los copos de nieve | snöflingor
+    se despeja | det klarnar upp
+    sale el sol | solen kommer fram
+    el arco iris | regnbågen
+    el huracán | orkanen
+    el tornado | tornadon
+    hace mal tiempo | det är dåligt väder
+    hace muy mal tiempo | mycket dåligt väder
+    hiele | det fryser
+
+månader
+    enero | januari
+    febrero | februari
+    marzo | mars
+    abril | april
+    mayo | maj
+    junio | juni
+    julio | juli
+    agosto | augusti
+    septiembre | september
+    octubre | oktober
+    noviembre | november
+    diciembre | december
+
+veckodagar
+    lunes | måndag
+    martes | tisdag
+    miércoles | onsdag
+    jueves | torsdag
+    viernes | fredag
+    sábado | lördag
+    domingo | söndag
+
+säsonger
+    la primavera | våren
+    el verano | sommaren
+    el otoño | hösten
+    el invierno | vintern
+
+oreg perfect 
+    abrir, abierto | öppna
+    decir, dicho | säga
+    descubrir, descubierto | upptäcka
+    describir, descrito | beskriva
+    escribir, escrito | skriva
+    hacer, hecho | göra
+    morir, muerto | dö
+    poner, puesto | sätta, ställa, lägga
+    romper, roto | bryta, ha sönder
+    ver, visto | se
+    volver, vuelto | återvända

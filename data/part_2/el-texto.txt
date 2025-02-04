@@ -1,0 +1,51 @@
+verbos del texto:
+    su último año del bachillerato | sitt sista år av gymnasiet
+    durante tres años | under tre år
+    siempre ha querido visitar | han har alltid velat besöka
+    por eso ha solicitado una beca | därför har han ansökt om ett stipendium
+
+    por las mañanas | på morgnarna
+    por las tardes | på eftermiddagarna
+    ordenar | att organisera
+    a veces también va a estar en la caja | ibland vara i kassan
+
+    marca de ropa | klädmärke
+
+    ¡hola a todos! | hej allihopa!
+    dos mayores y uno menor | två äldre och en yngre
+    todos juntos hemos paseado por el centro | vi har promenerat tillsammans i centrum
+    vamos a tomar algunas tapas | vi ska äta några tapas
+    dentro de poco | snart
+    que pronto va a llover | det verkar som att det snart kommer att regna
+    ¡qué suerte! | vilken tur!
+    he comprado un paraguas | jag har köpt ett paraply
+    normalmente comemos entre la una y media y las dos | vanligtvis äter vi mellan halv två och två
+    hoy es domingo | idag är det söndag
+    a las tres de la tarde | klockan tre på eftermiddagen
+    ¡estoy que exploto! | jag är jättemätt!
+    ¡qué raro! | vad konstigt!
+    casi | nästan
+    parece bastante normal aquí | det verkar ganska normalt här
+    otra cosa diferente | en annan sak som är annorlunda
+    la mayoría de la gente | de flesta människor
+
+glossary del texto (optional):
+    el/la joven | ungdom, ung person
+    el hombre | man, karl
+    durante | under
+    ahora | nu
+    poco antes | strax/just innan
+    solicitar | ansöka, be om
+    dar | ge
+    ordenar | ställa i ordning, ordna till
+    prometer | lova
+    colgar | hänga upp
+    estar | må, stå till, stå (att)
+    la beca | stipendium
+    el intercambio | utbyte
+    la tienda | affär
+    la sección | avdelning
+    la caja | kassamaskin
+    excitado | spänd, förväntansfull, "uppåt"
+    cibernético | virtuell
+    la estancia | vistelse

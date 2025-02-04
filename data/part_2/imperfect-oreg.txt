@@ -1,0 +1,27 @@
+imperfect:
+    aba 
+    abas 
+    aba 
+    abamos 
+    abais
+    aban
+
+    iá 
+    iás 
+    ía 
+    íamos 
+    íais 
+    ían
+
+preteritum:
+    é 
+    aron 
+    ó
+    amos 
+    asteis 
+    aron 
+
+    í 
+    iste 
+    ío
+    imos 

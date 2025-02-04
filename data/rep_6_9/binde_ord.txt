@@ -1,0 +1,21 @@
+binde ord
+    y | och
+    pero | men
+    o | eller
+    porque | eftersom
+    aunque | fastän
+    sino | utan
+    además | dessutom
+    entonces | då, alltså
+    pues | alltså, så
+    cuando | när
+    así que | så att
+    sin embargo | dock, ändå
+    por lo tanto | därför
+    mientras | medan
+    debido a | på grund av
+    por eso | därför
+    ya que | eftersom
+    a pesar de | trots
+    por supuesto | naturligtvis
+    en cambio | däremot

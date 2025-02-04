@@ -1,0 +1,21 @@
+frases de cole:
+    Buenos días | God morgon
+    ¿Cómo estás? | Hur mår du?
+    No entiendo | Jag förstår inte
+    ¿Puedes repetir, por favor? | Kan du upprepa, tack?
+    ¿Qué significa eso? | Vad betyder det?
+    ¿Puedes hablar más despacio, por favor? | Kan du tala långsammare, tack?
+    Tengo una pregunta | Jag har en fråga
+    ¿Cómo se dice ... en español? | Hur säger man ... på spanska?
+    Perdón por llegar tarde | Ursäkta att jag är sen
+    ¿Me puedes prestar un bolígrafo? | Kan jag få låna en penna?
+    ¿Cuál es la tarea? | Vad är läxan?
+    ¿Puedo ir al baño? | Kan jag gå på toaletten?
+    ¿Cómo se deletrea? | Hur stavas det?
+    ¿Me puedes ayudar, por favor? | Kan du hjälpa mig, tack?
+    ¿Cuándo empieza/termina la clase? | När börjar/avslutas lektionen?
+    ¿Podemos trabajar en grupo? | Kan vi arbeta i grupp?
+    He terminado la tarea | Jag är klar med uppgiften
+    ¿Me puedes dar un papel? | Kan jag få ett papper?
+    ¿Cuál es la siguiente tarea? | Vad är nästa uppgift?
+    ¿Puedo cerrar la ventana? | Kan jag stänga fönstret?

@@ -1,0 +1,5 @@
+.env 
+.direnv
+.ruff_cache
+__pycache__
+out/

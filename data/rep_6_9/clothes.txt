@@ -1,0 +1,26 @@
+kläder
+    ropa | kläder
+    traje | kostym
+    camiseta | t-shirt
+    chaqueta | jacka
+    jersey | tröja
+    abrigo | kappa
+    camisa | skjorta
+    pantalón | byxor
+    pantalón corto | shorts
+    falda | kjol
+    pijama | pyjamas
+    vestido | klänning
+    sujetador | behå
+    calzoncillos | kalsonger
+    bragas | trosor
+    zapatos | skor
+    zapatos de tacón | klackskor
+    botas | stövlar
+    zapatillas | sneakers
+    chanclas | flip-flop
+    gorro | mössa
+    gorra | keps
+    gafas | glasögon
+    calcetines | strumpor
+    cinturón | bälte

@@ -1,0 +1,7 @@
+prepositioner:
+    sobre | över
+    dentro de | inne i
+    al lado de | bredvid
+    detrás de | bakom
+    entre | mellan
+    lejos de | långt ifrån

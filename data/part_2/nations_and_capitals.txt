@@ -1,0 +1,38 @@
+nations and capitals:
+    Alemania | Tyskland
+    Berlín | Berlin
+
+    Dinamarca | Danmark
+    Copenhague | Köpenhamn
+
+    España | Spanien
+    Madrid | Madrid
+
+    Francia | Frankrike
+    París | Paris
+
+    Gran Bretaña | Storbritannien
+    Londres | London
+
+    Grecia | Grekland
+    Atenas | Atena
+
+    Italia | Italien
+    Roma | Roma
+
+    Noruega | Norge
+    Oslo | Oslo
+
+    Países Bajos | Nederländerna
+    La Haya | La Haya
+
+    Portugal | Portugal
+    Lisboa | Lissabon
+
+    Suecia | Sverige
+    Estocolmo | Stockholm
+    Gotemburgo | Göteborg
+    Malmö | Malmö
+
+    Suiza | Schweiz
+    Berna | Bern

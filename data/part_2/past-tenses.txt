@@ -1,0 +1,59 @@
+imperfect:
+    ar:
+        -aba | yo -ar (imp)
+        -abas | tú -ar (imp)
+        -aba | él/ella/usted -ar (imp)
+        -ábamos | nosotr@s -ar (imp)
+        -abais | vosotr@s -ar (imp)
+        -aban | ell@s/ustedes -ar (imp)
+
+    er/ir:
+        -ía | yo -er/ir (imp)
+        -ías | tú -er/ir (imp)
+        -ía | él/ella/usted -er/ir (imp)
+        -íamos | nosotr@s -er/ir (imp)
+        -íais | vosotr@s -er/ir (imp)
+        -ían | ell@s/ustedes -er/ir (imp)
+
+    words:
+        iba ... | ir (imp)
+        era ... | ser (imp)
+        veía ... | ver (imp)
+
+preteritum:
+    ar:
+        -é | yo -ar (pret)
+        -aste | tú -ar (pret)
+        -ó | él/ella/usted -ar (pret)
+        -amos | nosotr@s -ar (pret)
+        -asteis | vosotr@s -ar (pret)
+        -aron | ell@s/ustedes -ar (pret)
+
+    er/ir:
+        -í | yo -er/ir (pret)
+        -iste | tú -er/ir (pret)
+        -ió | él/ella/usted -er/ir (pret)
+        -imos | nosotr@s -er/ir (pret)
+        -isteis | vosotr@s -er/ir (pret)
+        -ieron | ell@s/ustedes -er/ir (pret)
+        
+    oreg:
+        -e | yo oreg (pret)
+        -iste | tú oreg (pret)
+        -o | él/ella/usted oreg (pret)
+        -imos | nosotr@s oreg (pret)
+        -isteis | vosotr@s oreg (pret)
+        -ieron | ell@s/ustedes oreg (pret)
+
+    words:
+        estuv- | stam estar (pret)
+        dij- (dijeron) | stam decir (pret)
+        hic- (hizo) | stam hacer (pret)
+        pud- | stam poder (pret)
+        pus- | stam poner  (pret)
+        sup- | stam saber (pret)
+        tuv- | stam tener (pret)
+        quis- | stam querer (pret)
+        fu- | stam ir/ser (pret)
+        v- | stam ver (pret)
+        d- | stam dar (pret)

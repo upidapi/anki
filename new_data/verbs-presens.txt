@@ -1,0 +1,107 @@
+presens
+    cambiar | byta, ändra 
+    viajar | resa 
+    comprar | köpa 
+    terminar | avsluta 
+    pagar (pago) | betala
+    regresar | återvända
+    caminar | gå, promenera
+    encontrar /ue/ | hitta, träffa
+    recordar /ue/ | komma ihåg
+    empezar /ie/ | börja
+    cantar | sjunga
+    bailar | dansa
+    jugar /ue/ | spela, leka
+    nadar | simma
+    descansar | vila
+    llegar (llego) | anlända
+    preparar | förbereda
+    desear | önska
+    lavar | tvätta
+    contestar | svara
+    invitar | bjuda in
+    mandar | skicka, beordra
+    negar /ie/ | förneka
+    presentar | presentera
+    tocar | spela (ett instrument)
+    visitar | besöka
+    olvidar | glömma
+    cocinar | laga mat
+    hablar | tala
+    trabajar | arbeta
+    mirar | titta
+    escuchar | lyssna
+    ayudar | hjälpa
+    estudiar | studera
+    esperar | vänta, hoppas
+    necesitar | behöva
+    usar | använda
+    entrar | gå in
+    buscar | leta efter
+    llevar | bära, ta med
+    tomar | ta, dricka
+    preguntar | fråga
+#
+#
+    hacer (hago) | göra
+    defender /ie/ | försvara
+    depender | bero på
+    discutir | diskutera, argumentera
+    existir | existera, finnas
+    imprimir | skriva ut, trycka
+    parecer (parezco) | verka, förefalla
+    prohibir | förbjuda
+    responder | svara
+    traducir (traduzco) | översätta
+    aprender | lära sig
+    beber | dricka
+    comer | äta
+    comprender | förstå
+    correr | springa
+    creer | tro
+    deber | vara skyldig, måste
+    leer | läsa
+    romper | bryta, ha sönder
+    vender | sälja
+    volver /ue/ | återvända, komma tillbaka
+    abrir | öppna
+    decidir | besluta, bestämma
+    descubrir | upptäcka
+    escribir | skriva
+    subir | gå upp, stiga
+    vivir | leva, bo
+#
+#
+    poner (pongo) | lägga, ställa, sätta
+    seguir (sigo) | följa, fortsätta
+    ver (veo) | se
+    ir (voy) <var> | gå, åka
+    querer /i/ | vilja, älska
+    poder /ue/ | kunna
+    pedir /i/ | be om, begära
+    estar | vara (tillstånd), befinna sig
+        estoy | jag är (temp)
+        estás | du är (temp)
+        está | han/hon/den är (temp)
+        estamos | vi är (temp)
+        estáis | ni är (temp)
+        están | de är (temp)
+    ser | vara (permanent)
+        soy | jag är (permanent)
+        eres | du är (permanent)
+        es | han/hon/den är (permanent)
+        somos | vi är (permanent)
+        sois | ni är (permanent)
+        son | de är (permanent)
+    tener (tengo) /ie/ | ha
+    dar (doy) | ge
+    decir /i/ | säga
+    saber (sé) | veta, kunna
+    venir (vengo) /ie/ | komma
+    oír (oigo) /y/ | höra
+        oigo | jag hör
+        oyes | du hör
+        oye | han/hon/den hör
+        oímos | vi hör
+        oís | ni hör
+        oyen | de hör

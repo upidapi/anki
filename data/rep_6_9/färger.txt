@@ -1,0 +1,17 @@
+färger
+    rojo | röd
+    amarillo | gul
+    naranja | orange
+    rosa | rosa
+    morado | lila
+    violeta | violett
+    verde | grön
+    azul | blå
+    azul celeste | ljusblå
+    azul claro | ljusblå
+    rosa fucsia | fuchsia
+    oscuro | mörk
+    negro | svart
+    blanco | vit
+    gris | grå
+    marrón | brun
