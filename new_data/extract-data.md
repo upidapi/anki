@@ -38,6 +38,12 @@ however
 
 should stay the same since they are all interchangable
 
+and 
+
+    ¡qué fuerte! / ¡qué chulo! | vad coolt!
+
+should also stay the same for the same reason
+
 
 7. **Categorization**: If there are clear categories, organize the words accordingly.
 

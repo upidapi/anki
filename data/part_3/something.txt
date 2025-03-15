@@ -1,0 +1,87 @@
+aspectos: 
+    aspecto físico:
+        alto | lång
+        bajo | kort
+        grande | stor
+        pequeño | liten
+        gordo | tjock
+        delgado | smal
+        guapo | snygg
+        feo | ful
+        rubio | blond
+        moreno | mörkhårig
+        pelirrojo | rödhårig
+        calvo | flintskallig
+        joven | ung
+        mayor | gammal
+        fuerte | stark
+
+    tener + nombre:
+        ojos oscuros | mörka ögon
+        ojos marrones | bruna ögon
+        ojos negros | svarta ögon
+        ojos claros | ljusa ögon
+        ojos azules | blå ögon
+        ojos verdes | gröna ögon
+        ojos grises | grå ögon
+        ojos grandes | stora ögon
+        ojos pequeños | små ögon
+        ojos alegres | livliga ögon
+        
+        pelo castaño | brunt hår
+        pelo negro | svart hår
+        pelo rubio | blont hår
+        pelo pelirrojo | rött hår
+        pelo blanco | vitt hår
+        pelo largo | långt hår
+        pelo corto | kort hår
+        pelo rizado | lockigt hår
+        pelo liso | rakt hår
+        
+        nariz grande | stor näsa
+        nariz pequeña | liten näsa
+        nariz respingona | uppnäsa
+
+        bigote | mustasch
+        barba | skägg
+        gafas | glasögon
+
+    personalidad:
+        trabajador | arbetsam
+        vago | lat
+        callado | tystlåten
+        hablador | pratglad
+        generoso | generös
+        egoísta | självisk
+        paciente | tålmodig
+        impaciente | otålig
+        extrovertido | utåtriktad
+        introvertido | inåtvänd
+        tímido | blyg
+        abierto | öppen
+        cerrado | sluten
+        simpático | trevlig
+        antipático | otrevlig
+        optimista | optimistisk
+        pesimista | pessimistisk
+        serio | allvarlig
+        alegre | glad
+
+    estado de ánimo:
+        contento | glad
+        bien | bra
+        ocupado | upptagen
+        cansado | trött
+        enfadado | arg
+        nervioso | nervös
+        preocupado | orolig
+        enfermo | sjuk
+
+    states:
+        mucho trabajo | att vara upptagen
+        calor | att vara varm
+        frío | att vara kall
+        hambre | att vara hungrig
+        sed | att vara törstig
+        sueño | att vara sömnig
+        miedo | att vara rädd

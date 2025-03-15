@@ -4,7 +4,7 @@ import genanki
 import json
 
 """
-nix-shell -p python3Packages.genanki; python src/main.py
+nix-shell -p python3Packages.genanki --command "python src/main.py"
 """
 
 def pp(data):
